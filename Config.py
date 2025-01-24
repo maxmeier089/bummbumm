@@ -1,6 +1,6 @@
 # display dimensions
-HEIGHT = 960
-WIDTH = 1280
+HEIGHT = 480
+WIDTH = 480
 
 # frames per second
 FPS = 60
